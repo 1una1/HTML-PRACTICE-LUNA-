@@ -1,2 +1,2 @@
 # HTML-PRACTICE-LUNA-
-htmll practice
+html practice
